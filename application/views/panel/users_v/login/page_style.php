@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?=base_url("_assets/panel");?>/assets/css/misc-pages.css">
